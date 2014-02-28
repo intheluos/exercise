@@ -44,8 +44,9 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\SceneButton.cs" />
-     <Compile Include="Assets\SceneButton1.cs" />
+     <Compile Include="Assets\Resource\Script\ButtonManeger.cs" />
+     <Compile Include="Assets\Resource\Script\SceneButton.cs" />
+     <Compile Include="Assets\Resource\Script\SceneButton1.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

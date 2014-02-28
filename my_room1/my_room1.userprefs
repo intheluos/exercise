@@ -1,9 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\SceneButton1.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resource\Script\ButtonManeger.cs">
     <Files>
-      <File FileName="Assets\SceneButton.cs" Line="11" Column="3" />
-      <File FileName="Assets\SceneButton1.cs" Line="12" Column="39" />
+      <File FileName="Assets\Resource\Script\ButtonManeger.cs" Line="23" Column="18" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
