@@ -1,8 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resource\Script\ButtonManeger.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\roborobo1\Assets\3_Script\PlayerScript.cs">
     <Files>
-      <File FileName="Assets\Resource\Script\ButtonManeger.cs" Line="23" Column="18" />
+      <File FileName="..\roborobo1\Assets\3_Script\EnemyAttackScript.cs" Line="22" Column="27" />
+      <File FileName="..\roborobo1\Assets\3_Script\HP_Bar.cs" Line="18" Column="14" />
+      <File FileName="..\roborobo1\Assets\3_Script\PlayerScript.cs" Line="38" Column="19" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
