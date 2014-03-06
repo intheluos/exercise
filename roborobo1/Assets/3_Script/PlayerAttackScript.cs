@@ -9,7 +9,7 @@ public class PlayerAttackScript : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		
-		_PlayerSt = GameObject.FindWithTag("player").GetComponent<PlayerScript>();
+		_PlayerSt = GameObject.FindWithTag("Player").GetComponent<PlayerScript>();
 		_PlayerSt._attackChkCol = gameObject.GetComponent<BoxCollider>();
 
 		gameObject.GetComponent<BoxCollider>().enabled = false;

@@ -34,7 +34,7 @@ public class EnemyScript : MonoBehaviour {
 		animation.CrossFade(_animationName[0],0.1f);
 		animation[_animationName[2]].speed = 2.0f;
 		animation[_animationName[3]].speed = 2.0f;
-		_target = GameObject.FindWithTag ("player");
+		_target = GameObject.FindWithTag ("Player");
 		
 	
 	}
